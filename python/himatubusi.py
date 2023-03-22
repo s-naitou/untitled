@@ -4,3 +4,4 @@ if taka > tomatu:
     print("たかちゃんはでかい！")
 else:
     print("たかちゃんはちいさい！")
+    print("たかちゃんはぶす！")
