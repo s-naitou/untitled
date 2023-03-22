@@ -1,7 +1,9 @@
 tomatu = 1
-taka = 2
+taka = 1
 if taka > tomatu:
     print("たかちゃんはでかい！")
-else:
+elif taka < tomatu:
     print("たかちゃんはちいさい！")
     print("たかちゃんはぶす！")
+else:
+    print("両方ぶす！")
